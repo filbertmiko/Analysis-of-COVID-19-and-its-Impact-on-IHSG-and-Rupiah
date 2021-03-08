@@ -1,0 +1,623 @@
+,city,symbol,longName,sector,industry,previousClose,fullTimeEmployees,marketCap
+0,Jakarta,AALI.JK,PT Astra Agro Lestari Tbk,Consumer Defensive,Farm Products,10850,32599,21508411883520
+1,Jakarta,ABBA.JK,PT Mahaka Media Tbk,Communication Services,Publishing,73,753,270001766400
+2,Jakarta,ABDA.JK,PT Asuransi Bina Dana Arta Tbk,Financial Services,Insurance—Property & Casualty,6950,509,4361168879616
+3,Jakarta Selatan,ABMM.JK,PT ABM Investama Tbk,Energy,Thermal Coal,745,5520,2064877486080
+4,Jakarta,ACES.JK,PT Ace Hardware Indonesia Tbk,Consumer Cyclical,Specialty Retail,1565,17075,26742093774848
+5,Jakarta,ACST.JK,PT Acset Indonusa Tbk,Industrials,Engineering & Construction,358,440,2274506833920
+6,Jakarta,ADES.JK,PT Akasha Wira International Tbk,Consumer Defensive,Beverages—Non-Alcoholic,1680,580,1002824925184
+7,Jakarta,ADHI.JK,PT Adhi Karya (Persero) Tbk,Industrials,Engineering & Construction,1320,1895,4682517839872
+8,Jakarta Selatan,ADMF.JK,PT Adira Dinamika Multi Finance Tbk,Financial Services,Credit Services,8450,13555,8450000027648
+9,Jakarta,ADMG.JK,PT. Polychem Indonesia Tbk,Basic Materials,Specialty Chemicals,174,1222,680606498816
+10,Jakarta,ADRO.JK,PT Adaro Energy Tbk,Energy,Thermal Coal,1180,9665,37583551725568
+11,Jakarta Barat,AGAR.JK,PT Asia Sejahtera Mina Tbk,Consumer Defensive,Farm Products,418,9,415999983616
+12,Jakarta Selatan,AGII.JK,PT Aneka Gas Industri Tbk,Basic Materials,Chemicals,1270,2503,3835011530752
+13,Jakarta Selatan,AGRO.JK,PT Bank Rakyat Indonesia Agroniaga Tbk,Financial Services,Banks—Regional,1215,507,24864943505408
+14,Central Jakarta,AGRS.JK,PT Bank IBK Indonesia Tbk,Financial Services,Banks—Regional,805,437,9020668641280
+15,Central Jakarta,AHAP.JK,PT Asuransi Harta Aman Pratama Tbk,Financial Services,Insurance—Property & Casualty,61,171,241079992320
+16,Jakarta Selatan,AISA.JK,PT Tiga Pilar Sejahtera Food Tbk,Consumer Defensive,Packaged Foods,302,2488,590816018432
+17,Jakarta,AKKU.JK,PT Anugerah Kagum Karya Utama Tbk,Real Estate,Real Estate Services,50,29,322473000960
+18,Bogor,AKPI.JK,PT Argha Karya Prima Industry Tbk,Consumer Cyclical,Packaging & Containers,492,1034,302450507776
+19,Jakarta,AKRA.JK,PT AKR Corporindo Tbk,Energy,Oil & Gas Refining & Marketing,3400,1939,14684438659072
+20,Jakarta Selatan,AKSI.JK,PT Maming Enam Sembilan Mineral Tbk,Financial Services,Capital Markets,765,269,547200008192
+21,Bandung,ALDO.JK,PT Alkindo Naratama Tbk,Basic Materials,Paper & Paper Products,440,650,481914421248
+22,Jakarta Timur,ALKA.JK,PT Alakasa Industrindo Tbk,Basic Materials,Aluminum,238,34,124885590016
+23,Sukabumi,ALTO.JK,PT Tri Banyan Tirta Tbk,Consumer Defensive,Beverages—Non-Alcoholic,334,302,732084568064
+24,Jakarta,AMAG.JK,P.T. Asuransi Multi Artha Guna Tbk,Financial Services,Insurance—Diversified,230,722,1140353400832
+25,Surabaya,AMAR.JK,PT Bank Amar Indonesia Tbk,Financial Services,Banks—Regional,535,1202,4001479786496
+26,Jakarta Utara,AMFG.JK,PT Asahimas Flat Glass Tbk,Industrials,Building Products & Equipment,3440,2523,1497299943424
+27,Deli Serdang,AMIN.JK,PT Ateliers Mecaniques D'Indonesie Tbk,Industrials,Specialty Industrial Machinery,238,442,263519993856
+28,Jakarta,AMOR.JK,PT Ashmore Asset Management Indonesia Tbk,Financial Services,Asset Management,3130,24,
+29,Tangerang,AMRT.JK,PT Sumber Alfaria Trijaya Tbk,Consumer Defensive,Grocery Stores,950,66082,39240649932800
+30,East Jakarta,ANDI.JK,"PT. Andira Agro, Tbk",Consumer Defensive,Farm Products,50,185,476849995776
+31,Jakarta,ANJT.JK,PT Austindo Nusantara Jaya Tbk,Consumer Defensive,Farm Products,675,7068,2185596633088
+32,Jakarta,ANTM.JK,PT Aneka Tambang Tbk,Basic Materials,Other Industrial Metals & Mining,2420,3935,10961008197632
+33,Jakarta,APEX.JK,PT Apexindo Pratama Duta Tbk,Energy,Oil & Gas Drilling,500,233,1298006802432
+34,Jakarta Selatan,APIC.JK,PT Pacific Strategic Financial Tbk,Financial Services,Capital Markets,785,211,9177713868800
+35,North Jakarta,APII.JK,PT Arita Prima Indonesia Tbk,Industrials,Tools & Accessories,176,215,187182235648
+36,Tangerang,APLI.JK,PT Asiaplast Industries Tbk.,Consumer Cyclical,Packaging & Containers,210,198,269808648192
+37,West Jakarta,APLN.JK,PT Agung Podomoro Land Tbk,Real Estate,Real Estate—Development,173,1397,3904279674880
+38,Jakarta Selatan,ARGO.JK,PT Argo Pantes Tbk,Consumer Cyclical,Textile Manufacturing,1780,84,593935859712
+39,Jakarta Selatan,ARII.JK,PT Atlas Resources Tbk,Energy,Thermal Coal,168,368,510000005120
+40,Bogor,ARKA.JK,PT Arkha Jayanti Persada Tbk,Industrials,Specialty Business Services,50,66,99999997952
+41,Lebak,ARMY.JK,PT Armidian Karyatama Tbk,Real Estate,Real Estate—Diversified,50,14,450312503296
+42,Jakarta Pusat,ARTA.JK,PT Arthavest Tbk,Consumer Cyclical,Lodging,272,106,151869161472
+43,Jakarta Selatan,ARTI.JK,PT. Ratu Prabu Energi Tbk,Energy,Oil & Gas Equipment & Services,50,234,392000012288
+44,South Jakarta,ARTO.JK,PT Bank Jago Tbk,Financial Services,Banks—Regional,9500,230,105306105315328
+45,Jakarta,ASBI.JK,PT Asuransi Bintang Tbk,Financial Services,Insurance—Diversified,292,461,101728706560
+46,Jakarta,ASDM.JK,PT Asuransi Dayin Mitra Tbk,Financial Services,Insurance—Property & Casualty,900,274,171839995904
+47,Jakarta,ASGR.JK,PT Astra Graphia Tbk,Industrials,Specialty Business Services,795,1403,1079024025600
+48,Jakarta,ASII.JK,PT Astra International Tbk,Consumer Cyclical,Auto Parts,5500,126717,224683966332928
+49,South Jakarta,ASJT.JK,PT Asuransi Jasa Tania Tbk,Financial Services,Insurance—Property & Casualty,262,213,155999993856
+50,Jakarta,ASMI.JK,PT Asuransi Kresna Mitra Tbk,Financial Services,Insurance—Diversified,920,213,8420877402112
+51,Jakarta,ASRI.JK,PT Alam Sutera Realty Tbk,Real Estate,Real Estate Services,238,1902,4637258678272
+52,Jakarta,ASRM.JK,PT Asuransi Ramayana Tbk,Financial Services,Insurance—Property & Casualty,1550,1048,462511669248
+53,Jakarta Utara,ASSA.JK,PT Adi Sarana Armada Tbk,Industrials,Rental & Leasing Services,1440,1010,6115499704320
+54,Tangerang,ATIC.JK,PT Anabatic Technologies Tbk,Technology,Information Technology Services,695,2391,1632328744960
+55,Central Jakarta,AYLS.JK,PT Agro Yasa Lestari Tbk,Consumer Defensive,Food Distribution,51,14,43524571136
+56,Central Jakarta,BABP.JK,PT Bank MNC Internasional Tbk,Financial Services,Banks—Regional,125,943,2963995885568
+57,South Jakarta,BACA.JK,PT Bank Capital Indonesia Tbk,Financial Services,Banks—Regional,780,843,5161925214208
+58,Jakarta,BAJA.JK,PT Saranacentral Bajatama Tbk,Basic Materials,Steel,128,159,228600004608
+59,Bali,BALI.JK,PT Bali Towerindo Sentra Tbk,Communication Services,Telecom Services,680,327,2695194214400
+60,West Jakarta,BAPA.JK,PT Bekasi Asri Pemula Tbk,Real Estate,Real Estate—Development,51,23,33089251328
+61,Tangerang,BAPI.JK,PT Bhakti Agung Propertindo Tbk,Real Estate,Real Estate—Development,50,15,279586996224
+62,Jakarta Selatan,BATA.JK,PT Sepatu Bata Tbk.,Consumer Cyclical,Footwear & Accessories,710,418,922999980032
+63,Jakarta Pusat,BAYU.JK,PT Bayu Buana Tbk,Consumer Cyclical,Travel Services,1100,462,388543086592
+64,Jakarta,BBCA.JK,PT Bank Central Asia Tbk,Financial Services,Banks—Regional,34000,26123,828407990452224
+65,Central Jakarta,BBHI.JK,PT Bank Harda Internasional Tbk,Financial Services,Banks—Regional,2410,284,10084476256256
+66,South Jakarta,BBKP.JK,PT Bank KB Bukopin Tbk,Financial Services,Banks—Regional,570,5118,6583323983872
+67,Jakarta,BBLD.JK,PT Buana Finance Tbk.,Financial Services,Credit Services,510,678,803150364672
+68,Medan,BBMD.JK,PT Bank Mestika Dharma Tbk,Financial Services,Banks—Regional,1475,1064,5878996533248
+69,Jakarta,BBNI.JK,PT Bank Negara Indonesia (Persero) Tbk,Financial Services,Banks—Regional,6000,32075,111774594498560
+70,Jakarta,BBRI.JK,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services,Banks—Regional,4770,67028,575144372207616
+71,Central Jakarta,BBRM.JK,PT Pelayaran Nasional Bina Buana Raya Tbk,Industrials,Marine Shipping,50,19,266766008320
+72,Jakarta Pusat,BBTN.JK,PT Bank Tabungan Negara (Persero) Tbk,Financial Services,Banks—Regional,2110,11141,22768500342784
+73,South Jakarta,BBYB.JK,PT Bank Neo Commerce Tbk,Financial Services,Banks—Regional,725,601,4530023956480
+74,Jakarta,BCAP.JK,PT MNC Kapital Indonesia Tbk,Financial Services,Capital Markets,143,2201,5231701131264
+75,Jakarta,BCIC.JK,PT Bank JTrust Indonesia Tbk.,Financial Services,Banks—Regional,700,814,1417506979840
+76,Central Jakarta,BCIP.JK,PT Bumi Citra Permai Tbk,Real Estate,Real Estate—Development,65,185,98664480768
+77,Jakarta,BDMN.JK,PT Bank Danamon Indonesia Tbk,Financial Services,Banks—Regional,3130,22335,30591210749952
+78,Cikarang,BEEF.JK,PT Estika Tata Tiara Tbk,Consumer Defensive,Packaged Foods,127,277,237423067136
+79,Serang,BEKS.JK,"PT. Bank Pembangunan Daerah Banten, Tbk",Financial Services,Banks—Regional,112,991,3012327899136
+80,Cimahi,BELL.JK,PT Trisula Textile Industries Tbk,Consumer Cyclical,Textile Manufacturing,148,715,1065749970944
+81,Bekasi,BEST.JK,PT Bekasi Fajar Industrial Estate Tbk,Real Estate,Real Estate Services,155,193,1504980369408
+82,Tangerang Selatan,BFIN.JK,PT BFI Finance Indonesia Tbk,Financial Services,Credit Services,665,6425,10250613686272
+83,Jakarta,BGTG.JK,PT Bank Ganesha Tbk,Financial Services,Banks—Regional,264,303,2950226509824
+84,Jakarta,BHIT.JK,PT MNC Investama Tbk,Communication Services,Entertainment,67,11664,4245626552320
+85,West Jakarta,BIKA.JK,PT Binakarya Jaya Abadi Tbk,Real Estate,Real Estate—Development,165,288,100687601664
+86,Jakarta,BIMA.JK,PT Primarindo Asia Infrastructure Tbk.,Consumer Cyclical,Footwear & Accessories,50,1069,30408800256
+87,Jakarta,BINA.JK,PT Bank Ina Perdana Tbk,Financial Services,Banks—Regional,1480,430,8425010888704
+88,Jakarta,BIPI.JK,PT Astrindo Nusantara Infrastruktur Tbk,Industrials,Infrastructure Operations,50,45,2234654916608
+89,Jakarta,BIPP.JK,PT Bhuwanatala Indah Permai Tbk,Real Estate,Real Estate—Diversified,54,125,291662856192
+90,Jakarta Selatan,BIRD.JK,PT Blue Bird Tbk,Industrials,Railroads,1265,2755,3252729937920
+91,Sidoarjo,BISI.JK,PT BISI International Tbk,Basic Materials,Agricultural Inputs,1155,707,3420000092160
+92,Bandung,BJBR.JK,PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk,Financial Services,Banks—Regional,1575,8837,15348512325632
+93,Surabaya,BJTM.JK,PT Bank Pembangunan Daerah Jawa Timur Tbk,Financial Services,Banks—Regional,835,4050,12462864728064
+94,Surabaya,BKDP.JK,PT Bukit Darmo Property Tbk,Real Estate,Real Estate Services,50,133,375699505152
+95,Jakarta,BKSL.JK,PT Sentul City Tbk,Real Estate,Real Estate—Development,50,372,3197194993664
+96,Jakarta,BKSW.JK,PT Bank QNB Indonesia Tbk,Financial Services,Banks—Regional,318,550,6498870099968
+97,Jakarta,BLTA.JK,PT Berlian Laju Tanker Tbk,Industrials,Marine Shipping,50,55,1295460073472
+98,South Jakarta,BLTZ.JK,PT Graha Layar Prima Tbk,Communication Services,Entertainment,2600,417,2184842575872
+99,Jakarta Utara,BLUE.JK,PT Berkah Prima Perkasa Tbk,Technology,Electronics & Computer Distribution,675,57,284239986688
+100,Surabaya,BMAS.JK,PT Bank Maspion Indonesia Tbk,Financial Services,Banks—Regional,1225,725,5443238756352
+101,Jakarta,BMRI.JK,PT Bank Mandiri (Persero) Tbk,Financial Services,Banks—Regional,6475,38247,299606114041856
+102,Jakarta,BMSR.JK,PT Bintang Mitra Semestaraya Tbk,Industrials,Conglomerates,79,57,92735995904
+103,Jakarta,BMTR.JK,PT. Global Mediacom Tbk,Communication Services,Entertainment,268,9330,4280575066112
+104,Jakarta,BNBA.JK,P.T. Bank Bumi Arta Tbk,Financial Services,Banks—Regional,3320,805,7592508129280
+105,Jakarta Selatan,BNBR.JK,PT Bakrie & Brothers Tbk,Industrials,Conglomerates,50,2515,1043155058688
+106,Jakarta,BNGA.JK,PT Bank CIMB Niaga Tbk,Financial Services,Banks—Regional,1095,12064,28168301838336
+107,Jakarta,BNII.JK,PT Bank Maybank Indonesia Tbk,Financial Services,Banks—Regional,436,9548,33077394931712
+108,Jakarta,BNLI.JK,PT Bank Permata Tbk,Financial Services,Banks—Regional,2260,7086,63937357807616
+109,Malang,BOGA.JK,PT Bintang Oto Global Tbk,Consumer Cyclical,Auto & Truck Dealerships,1315,219,5058695004160
+110,Denpasar,BOLA.JK,PT Bali Bintang Sejahtera Tbk,Consumer Cyclical,Leisure,290,196,1739999936512
+111,Jakarta Utara,BOLT.JK,PT Garuda Metalindo Tbk,Industrials,Tools & Accessories,1280,1378,2800781099008
+112,Jakarta Barat,BOSS.JK,PT. Borneo Olah Sarana Sukses Tbk,Energy,Thermal Coal,113,89,158200004608
+113,Jakarta,BPFI.JK,PT Batavia Prosperindo Finance Tbk,Financial Services,Credit Services,1075,1176,1916359409664
+114,Jakarta,BPII.JK,PT Batavia Prosperindo Internasional Tbk,Financial Services,Asset Management,7550,1072,4244798963712
+115,Jakarta Pusat,BPTR.JK,PT Batavia Prosperindo Trans Tbk,Industrials,Rental & Leasing Services,84,119,130200002560
+116,Bogor,BRAM.JK,PT Indo Kordsa Tbk,Consumer Cyclical,Auto Parts,4800,1468,2159999975424
+117,Central Jakarta,BRIS.JK,PT Bank Syariah Indonesia Tbk,Financial Services,Banks—Regional,2630,2957,26533366333440
+118,Jakarta,BRMS.JK,PT Bumi Resources Minerals Tbk,Basic Materials,Other Industrial Metals & Mining,81,211,5751631773696
+119,Bekasi,BRNA.JK,PT Berlina Tbk,Consumer Cyclical,Packaging & Containers,1200,1224,1174932029440
+120,Jakarta,BRPT.JK,PT Barito Pacific Tbk,Basic Materials,Chemicals,1025,3289,95722699489280
+121,Tangerang,BSDE.JK,PT Bumi Serpong Damai Tbk,Real Estate,Real Estate—Development,1205,3260,25305213304832
+122,Jakarta,BSIM.JK,PT Bank Sinarmas Tbk,Financial Services,Banks—Regional,995,5434,16239474769920
+123,Jakarta,BSSR.JK,PT Baramulti Suksessarana Tbk,Energy,Thermal Coal,1505,520,3885502562304
+124,South Jakarta,BTEK.JK,PT Bumi Teknokultura Unggul Tbk,Consumer Defensive,Farm Products,50,304,2313875095552
+125,Jakarta Selatan,BTEL.JK,PT Bakrie Telecom Tbk,Communication Services,Telecom Services,0,67,1833194881024
+126,Gresik,BTON.JK,PT Betonjaya Manunggal Tbk,Basic Materials,Steel,298,64,204480004096
+127,Jakarta,BTPN.JK,PT Bank BTPN Tbk,Financial Services,Banks—Regional,2920,19370,23436353077248
+128,Jakarta Selatan,BTPS.JK,PT Bank BTPN Syariah Tbk,Financial Services,Banks—Regional,3650,11896,28956512223232
+129,Jakarta,BUDI.JK,PT Budi Starch & Sweetener Tbk,Consumer Defensive,Packaged Foods,108,1693,490390978560
+130,Bogor,BUKK.JK,PT Bukaka Teknik Utama Tbk,Industrials,Engineering & Construction,865,626,2270787010560
+131,Jakarta Selatan,BULL.JK,PT Buana Lintas Lautan Tbk,Industrials,Marine Shipping,306,220,3761330978816
+132,Jakarta,BUMI.JK,PT Bumi Resources Tbk,Energy,Thermal Coal,60,650,3977095675904
+133,Jakarta,BUVA.JK,PT Bukit Uluwatu Villa Tbk,Consumer Cyclical,Lodging,56,390,374619865088
+134,Jakarta Selatan,BVIC.JK,PT Bank Victoria International Tbk,Financial Services,Banks—Regional,308,866,2757200707584
+135,Jakarta Selatan,BWPT.JK,PT Eagle High Plantations Tbk,Consumer Defensive,Farm Products,113,957,3783035977728
+136,Jakarta,BYAN.JK,PT Bayan Resources Tbk,Energy,Thermal Coal,13000,2674,40833290076160
+137,Jakarta Selatan,CAKK.JK,PT Cahayaputra Asa Keramik Tbk,Industrials,Building Products & Equipment,66,369,80621101056
+138,Surabaya,CAMP.JK,"PT Campina Ice Cream Industry, Tbk.",Consumer Defensive,Packaged Foods,242,766,1447710031872
+139,Samarinda,CANI.JK,PT Capitol Nusantara Indonesia Tbk,Industrials,Marine Shipping,304,4,236696961024
+140,South Tangerang,CARS.JK,PT Industri dan Perdagangan Bintraco Dharma Tbk,Consumer Cyclical,Auto & Truck Dealerships,50,3449,750000013312
+141,Jakarta,CASA.JK,PT Capital Financial Indonesia Tbk,Financial Services,Financial Conglomerates,390,986,21136767188992
+142,Jakarta Timur,CASS.JK,PT Cardig Aero Services Tbk,Industrials,Airports & Air Services,256,2223,596867678208
+143,Jakarta,CCSI.JK,PT Communication Cable Systems Indonesia Tbk,Technology,Communication Equipment,224,152,228000006144
+144,Bekasi,CEKA.JK,PT Wilmar Cahaya Indonesia Tbk.,Consumer Defensive,Packaged Foods,1830,395,1094799982592
+145,Jakarta Pusat,CENT.JK,PT Centratama Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,181,220,5706580230144
+146,Jakarta,CFIN.JK,PT. Clipan Finance Indonesia Tbk,Financial Services,Credit Services,260,3108,1035975196672
+147,Jakarta,CITA.JK,PT Cita Mineral Investindo Tbk,Basic Materials,Other Industrial Metals & Mining,2950,285,11445439823872
+148,Bogor,CITY.JK,PT Natura City Developments Tbk,Real Estate,Real Estate—Development,216,108,1134562770944
+149,Jakarta,CLAY.JK,PT Citra Putra Realty Tbk,Consumer Cyclical,Lodging,1165,232,2788449845248
+150,Sidoarjo,CLEO.JK,PT Sariguna Primatirta Tbk,Consumer Defensive,Beverages—Non-Alcoholic,468,482,5564983672832
+151,Tangerang,CLPI.JK,PT Colorpak Indonesia Tbk,Basic Materials,Specialty Chemicals,830,102,252728836096
+152,Jakarta Utara,CMNP.JK,PT Citra Marga Nusaphala Persada Tbk,Industrials,Infrastructure Operations,1825,311,7162233880576
+153,Jakarta Timur,CNTX.JK,PT Century Textile Industry Tbk,Consumer Cyclical,Textile Manufacturing,204,439,40800002048
+154,Bandung,COCO.JK,PT Wahana Interfood Nusantara Tbk,Consumer Defensive,Confectioners,270,8,157989650432
+155,Central Jakarta,COWL.JK,PT Cowell Development Tbk,Real Estate,Real Estate—Development,50,136,243560497152
+156,Jakarta,CPIN.JK,PT Charoen Pokphand Indonesia Tbk,Consumer Defensive,Farm Products,6350,7414,103307402018816
+157,Jakarta Timur,CPRI.JK,PT Capri Nusa Satu Properti Tbk,Real Estate,Real Estate—Diversified,50,24,121668501504
+158,Jakarta Selatan,CPRO.JK,PT Central Proteina Prima Tbk,Consumer Defensive,Farm Products,50,1780,2978620112896
+159,Jakarta Barat,CSAP.JK,PT Catur Sentosa Adiprana Tbk,Industrials,Building Products & Equipment,408,7906,1783340072960
+160,Bogor,CSIS.JK,PT Cahayasakti Investindo Sukses Tbk,Consumer Cyclical,"Furnishings, Fixtures & Appliances",59,23,92797001728
+161,Jakarta Utara,CSRA.JK,PT Cisadane Sawit Raya Tbk,Consumer Defensive,Farm Products,306,1431,643700031488
+162,Batam,CTBN.JK,PT Citra Tubindo Tbk,Energy,Oil & Gas Equipment & Services,2650,733,2177011810304
+163,Jakarta,CTRA.JK,PT Ciputra Development Tbk,Real Estate,Real Estate Services,1130,3581,21501411590144
+164,Karawang,CTTH.JK,PT Citatah Tbk,Basic Materials,Building Materials,53,681,65234522112
+165,Depok,DADA.JK,PT Diamond Citra Propertindo Tbk,Real Estate,Real Estate Services,72,26,480858996736
+166,Jakarta,DART.JK,PT Duta Anggada Realty Tbk.,Real Estate,Real Estate Services,208,313,653409124352
+167,South Jakarta,DAYA.JK,PT Duta Intidaya Tbk,Consumer Cyclical,Specialty Retail,348,1174,784258170880
+168,Jakarta,DEFI.JK,PT Danasupra Erapacific Tbk,Financial Services,Credit Services,1675,6,1147735900160
+169,Jakarta,DEWA.JK,PT Darma Henwa Tbk,Energy,Thermal Coal,50,2791,1092685004800
+170,Semarang,DFAM.JK,PT Dafam Property Indonesia Tbk,Real Estate,Real Estate Services,206,301,364723208192
+171,Jakarta Selatan,DGIK.JK,PT Nusa Konstruksi Enjiniring Tbk,Industrials,Engineering & Construction,50,756,276086489088
+172,Central Jakarta,DIGI.JK,PT Arkadia Digital Media Tbk,Communication Services,Internet Content & Information,370,116,594749947904
+173,Jakarta,DILD.JK,PT Intiland Development Tbk,Real Estate,Real Estate—Development,202,1186,2114643558400
+174,South Jakarta,DIVA.JK,PT Distribusi Voucher Nusantara Tbk,Technology,Software—Application,2420,180,1742984970240
+175,Jakarta,DKFT.JK,PT Central Omega Resources Tbk,Basic Materials,Other Industrial Metals & Mining,171,833,930493300736
+176,Bekasi,DLTA.JK,PT Delta Djakarta Tbk,Consumer Defensive,Beverages—Brewers,3800,355,3058517409792
+177,Jakarta Barat,DMAS.JK,PT Puradelta Lestari Tbk,Real Estate,Real Estate—Development,236,437,11374751121408
+178,Jakarta,DMMX.JK,PT Digital Mediatama Maxima Tbk,Communication Services,Advertising Agencies,418,114,2918295011328
+179,Central Jakarta,DMND.JK,PT Diamond Food Indonesia Tbk,Consumer Defensive,Packaged Foods,910,6179,7388999974912
+180,Central Jakarta,DNAR.JK,PT Bank Oke Indonesia Tbk,Financial Services,Banks—Regional,422,324,3576452349952
+181,Jakarta,DNET.JK,PT Indoritel Makmur Internasional Tbk.,Communication Services,Telecom Services,3330,128,46381678985216
+182,Jakarta,DOID.JK,PT Delta Dunia Makmur Tbk,Energy,Thermal Coal,302,10938,2551466688512
+183,Pontianak,DPNS.JK,PT Duta Pertiwi Nusantara Tbk,Basic Materials,Specialty Chemicals,286,100,94703173632
+184,Pati,DPUM.JK,PT Dua Putra Utama Makmur Tbk,Consumer Defensive,Packaged Foods,50,162,208226992128
+185,Jakarta,DSNG.JK,PT Dharma Satya Nusantara Tbk,Consumer Defensive,Farm Products,570,16701,6379623940096
+186,Jakarta,DSSA.JK,PT Dian Swastatika Sentosa Tbk,Energy,Thermal Coal,12750,2412,9631900368896
+187,West Jakarta,DUCK.JK,PT Jaya Bersama Indo Tbk,Consumer Cyclical,Restaurants,260,1989,338799132672
+188,Jakarta,DUTI.JK,PT Duta Pertiwi Tbk,Real Estate,Real Estate—Development,3610,1098,6678500081664
+189,Jakarta,DVLA.JK,PT Darya-Varia Laboratoria Tbk,Healthcare,Drug Manufacturers—Specialty & Generic,2380,1252,2665599991808
+190,Jakarta Pusat,DYAN.JK,PT Dyandra Media International Tbk,Communication Services,Entertainment,73,485,307371606016
+191,Yogyakarta,EAST.JK,PT Eastparc Hotel Tbk,Consumer Cyclical,Lodging,62,99,278792503296
+192,Jakarta Selatan,ECII.JK,PT Electronic City Indonesia Tbk,Consumer Cyclical,Specialty Retail,1100,678,1284799987712
+193,Tangerang,EKAD.JK,PT Ekadharma International Tbk,Basic Materials,Specialty Chemicals,1205,598,852505460736
+194,Jakarta Selatan,ELSA.JK,PT Elnusa Tbk,Energy,Oil & Gas Equipment & Services,384,2323,2904802983936
+195,Jakarta Selatan,ELTY.JK,PT Bakrieland Development Tbk,Real Estate,Real Estate Services,50,609,2176095092736
+196,Jakarta,EMDE.JK,PT Megapolitan Developments Tbk,Real Estate,Real Estate Services,188,144,636500049920
+197,Jakarta,EMTK.JK,PT Elang Mahkota Teknologi Tbk,Communication Services,Broadcasting,2170,5278,118296653332480
+198,Jakarta,ENRG.JK,PT Energi Mega Persada Tbk,Energy,Oil & Gas E&P,117,395,1220379672576
+199,Jakarta Timur,EPMT.JK,PT Enseval Putera Megatrading Tbk,Healthcare,Medical Distribution,2120,4801,5850662436864
+200,Jakarta Barat,ERAA.JK,PT Erajaya Swasembada Tbk,Consumer Cyclical,Specialty Retail,2740,2963,8521569009664
+201,South Jakarta,ESIP.JK,PT Sinergi Inti Plastindo Tbk,Consumer Cyclical,Packaging & Containers,78,66,67200000000
+202,Jakarta,ESSA.JK,PT Surya Esa Perkasa Tbk,Energy,Oil & Gas Refining & Marketing,220,369,3060200112128
+203,Jakarta,ESTI.JK,PT Ever Shine Tex Tbk,Consumer Cyclical,Textile Manufacturing,82,893,165247221760
+204,Jakarta Barat,ETWA.JK,PT Eterindo Wahanatama Tbk,Basic Materials,Chemicals,62,53,60034416640
+205,Jakarta Selatan,EXCL.JK,PT XL Axiata Tbk,Communication Services,Telecom Services,2190,1607,23215908847616
+206,Jakarta,FAST.JK,PT Fast Food Indonesia Tbk,Consumer Cyclical,Restaurants,1045,16075,4146552635392
+207,Jakarta Pusat,FASW.JK,PT Fajar Surya Wisesa Tbk,Consumer Cyclical,Packaging & Containers,7600,3513,18831963586560
+208,Jakarta Pusat,FINN.JK,"PT First Indo American Leasing, Tbk",Financial Services,Credit Services,0,149,109425000448
+209,Jakarta Selatan,FIRE.JK,PT Alfa Energi Investama Tbk,Energy,Thermal Coal,650,71,978627264512
+210,Jakarta Selatan,FISH.JK,PT FKS Multi Agro Tbk,Consumer Defensive,Farm Products,3570,440,1867199938560
+211,Majalengka,FITT.JK,PT Hotel Fitra International Tbk,Consumer Cyclical,Lodging,80,22,47400001536
+212,Surabaya,FMII.JK,PT Fortune Mate Indonesia Tbk,Real Estate,Real Estate—Development,550,66,1442129903616
+213,Jakarta Selatan,FOOD.JK,PT Sentra Food Indonesia Tbk,Consumer Defensive,Packaged Foods,103,244,65649999872
+214,Jakarta Selatan,FORU.JK,PT Fortune Indonesia Tbk,Communication Services,Advertising Agencies,304,72,141428097024
+215,Jakarta Barat,FORZ.JK,PT Forza Land Indonesia Tbk,Real Estate,Real Estate—Development,50,44,99200499712
+216,Jakarta,FPNI.JK,PT Lotte Chemical Titan Tbk,Basic Materials,Specialty Chemicals,256,338,1447266615296
+217,Jakarta,FREN.JK,PT Smartfren Telecom Tbk,Communication Services,Telecom Services,87,2708,20913011556352
+218,Jakarta,FUJI.JK,PT Fuji Finance Indonesia Tbk,Financial Services,Credit Services,126,16,161199996928
+219,Jakarta Selatan,GAMA.JK,PT Aksara Global Development Tbk,Real Estate,Real Estate—Development,50,38,500549976064
+220,Surabaya,GDST.JK,PT Gunawan Dianjaya Steel Tbk,Basic Materials,Steel,101,627,869860769792
+221,Bogor,GDYR.JK,PT Goodyear Indonesia Tbk,Consumer Cyclical,Auto Parts,2470,853,942999994368
+222,Jakarta Barat,GEMA.JK,PT Gema Grahasarana Tbk,Consumer Cyclical,"Furnishings, Fixtures & Appliances",348,593,556800016384
+223,Kediri,GGRM.JK,PT Gudang Garam Tbk,Consumer Defensive,Tobacco,36600,31732,70373592793088
+224,Bekasi,GGRP.JK,PT Gunung Raja Paksi Tbk,Basic Materials,Steel,424,4453,4989896884224
+225,Jakarta,GHON.JK,PT Gihon Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,1955,39,1075250003968
+226,Jakarta,GIAA.JK,PT. Garuda Indonesia (Persero) Tbk,Industrials,Airports & Air Services,346,15368,8853217345536
+227,Jakarta,GJTL.JK,PT. Gajah Tunggal Tbk,Consumer Cyclical,Auto Parts,810,17987,2874638336000
+228,Jakarta Pusat,GLOB.JK,PT Global Teleshop Tbk,Consumer Cyclical,Specialty Retail,438,22,453332893696
+229,Jakarta Pusat,GLVA.JK,PT Galva Technologies Tbk,Technology,Electronics & Computer Distribution,344,328,515999989760
+230,Tangerang,GMFI.JK,PT Garuda Maintenance Facility Aero Asia Tbk,Industrials,Aerospace & Defense,123,5114,3416253530112
+231,Makassar,GMTD.JK,PT Gowa Makassar Tourism Development Tbk,Real Estate,Real Estate—Development,16975,79,1723607547904
+232,Jakarta,GOLD.JK,PT Visi Telekomunikasi Infrastruktur Tbk,Communication Services,Telecom Services,276,33,352529285120
+233,Jakarta Selatan,GOLL.JK,PT Golden Plantation Tbk,Consumer Defensive,Farm Products,0,96,183249993728
+234,Jakarta,GOOD.JK,PT Garudafood Putra Putri Jaya Tbk,Consumer Defensive,Packaged Foods,1575,9084,11978870358016
+235,South Jakarta,GPRA.JK,PT Perdana Gapuraprima Tbk,Real Estate,Real Estate—Development,67,244,290812887040
+236,Jakarta,GSMF.JK,PT Equity Development Investment Tbk,Financial Services,Insurance—Diversified,118,956,879656960000
+237,Jakarta,GTBO.JK,PT Garda Tujuh Buana Tbk,Energy,Thermal Coal,75,63,187500003328
+238,Central Jakarta,GWSA.JK,PT Greenwood Sejahtera Tbk,Real Estate,Real Estate—Development,143,123,1146711703552
+239,South Jakarta,GZCO.JK,PT Gozco Plantations Tbk,Consumer Defensive,Farm Products,50,890,299999985664
+240,South Jakarta,HADE.JK,PT Himalaya Energi Perkasa Tbk,Consumer Cyclical,Specialty Retail,50,39,105999998976
+241,Jakarta,HDFA.JK,PT Radana Bhaskara Finance Tbk,Financial Services,Credit Services,122,456,743830388736
+242,South Jakarta,HDIT.JK,PT Hensel Davest Indonesia Tbk,Technology,Software—Application,228,10,326281494528
+243,Bandung,HDTX.JK,PT Panasia Indo Resources Tbk,Basic Materials,Other Industrial Metals & Mining,0,251,
+244,Jakarta,HEAL.JK,PT Medikaloka Hermina Tbk,Healthcare,Medical Care Facilities,4100,9763,12059410432000
+245,Jakarta,HELI.JK,PT Jaya Trishindo Tbk,Industrials,Airports & Air Services,338,31,263717994496
+246,South Tangerang,HERO.JK,PT Hero Supermarket Tbk,Consumer Cyclical,Department Stores,990,8551,4141793673216
+247,Jakarta,HEXA.JK,PT Hexindo Adiperkasa Tbk,Industrials,Industrial Distribution,3510,1652,2948399890432
+248,Jakarta,HITS.JK,PT Humpuss Intermoda Transportasi Tbk.,Industrials,Marine Shipping,468,853,3213667336192
+249,Bekasi,HKMU.JK,PT HK Metals Utama Tbk,Basic Materials,Building Materials,90,404,280292261888
+250,Surabaya,HMSP.JK,PT Hanjaya Mandala Sampoerna Tbk,Consumer Defensive,Tobacco,1445,22687,166916337434624
+251,Batam,HOME.JK,PT Hotel Mandarine Regency Tbk,Consumer Cyclical,Lodging,0,114,1110610018304
+252,Jakarta Selatan,HOTL.JK,PT. Saraswati Griya Lestari Tbk,Consumer Cyclical,Lodging,50,197,177500012544
+253,Jakarta,HRME.JK,PT Menteng Heritage Realty Tbk,Consumer Cyclical,Lodging,51,61,297937502208
+254,Bandung,HRTA.JK,PT Hartadinata Abadi Tbk,Consumer Cyclical,Luxury Goods,210,640,957894033408
+255,Central Jakarta,HRUM.JK,PT Harum Energy Tbk,Energy,Thermal Coal,5275,679,12883977043968
+256,Jakarta Pusat,IATA.JK,PT Indonesia Transport & Infrastructure Tbk,Industrials,Airports & Air Services,50,116,534885007360
+257,Jakarta,IBFN.JK,PT Intan Baruprana Finance Tbk,Financial Services,Credit Services,254,27,364156780544
+258,Jakarta Pusat,IBST.JK,PT Inti Bangun Sejahtera Tbk,Communication Services,Telecom Services,8200,470,12023010164736
+259,Jakarta,ICBP.JK,PT Indofood CBP Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,8500,35478,97668411949056
+260,Kuta,ICON.JK,PT Island Concepts Indonesia Tbk,Consumer Cyclical,Lodging,78,120,89359499264
+261,Jakarta,IDPR.JK,PT Indonesia Pondasi Raya Tbk,Industrials,Engineering & Construction,274,966,548822024192
+262,Jakarta Utara,IFII.JK,PT Indonesia Fibreboard Industry Tbk,Basic Materials,Lumber & Wood Production,139,482,1308267905024
+263,Bekasi,IGAR.JK,PT Champion Pacific Indonesia Tbk,Consumer Cyclical,Packaging & Containers,338,576,330549362688
+264,Jakarta Barat,IIKP.JK,PT Inti Agri Resources Tbk,Consumer Defensive,Farm Products,0,130,1680000024576
+265,Jakarta Pusat,IKAI.JK,PT Intikeramik Alamasri Industri Tbk,Consumer Cyclical,Lodging,50,187,665290014720
+266,Jakarta,IKAN.JK,PT Era Mandiri Cemerlang Tbk,Consumer Defensive,Farm Products,179,72,139166613504
+267,Tangerang,IKBI.JK,PT Sumi Indo Kabel Tbk,Industrials,Electrical Equipment & Parts,234,535,291312009216
+268,Jakarta,IMAS.JK,PT Indomobil Sukses Internasional Tbk,Consumer Cyclical,Auto & Truck Dealerships,1160,7477,4473604800512
+269,East Jakarta,IMJS.JK,PT Indomobil Multi Jasa Tbk,Industrials,Conglomerates,322,2376,2665530523648
+270,Jakarta,IMPC.JK,PT Impack Pratama Industri Tbk,Basic Materials,Building Materials,1460,1891,7081077768192
+271,Bekasi,INAF.JK,PT Indofarma (Persero) Tbk,Healthcare,Drug Manufacturers—Specialty & Generic,3080,1330,9545751461888
+272,Surabaya,INAI.JK,PT Indal Aluminium Industry Tbk,Basic Materials,Aluminum,336,1881,234432004096
+273,Jakarta,INCF.JK,PT Indo Komoditi Korpora Tbk,Basic Materials,Specialty Chemicals,107,165,155343962112
+274,Jakarta Barat,INCI.JK,PT Intanwijaya Internasional Tbk,Basic Materials,Specialty Chemicals,920,148,179450707968
+275,Jakarta,INCO.JK,PT Vale Indonesia Tbk,Basic Materials,Other Industrial Metals & Mining,5150,3006,47992522407936
+276,Jakarta,INDF.JK,PT Indofood Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,6125,92078,54219155439616
+277,Jakarta,INDR.JK,PT. Indo-Rama Synthetics Tbk,Consumer Cyclical,Textile Manufacturing,4320,7259,2787539419136
+278,Gresik,INDS.JK,PT Indospring Tbk,Consumer Cyclical,Auto Parts,1875,1386,1233749934080
+279,Jakarta,INDX.JK,PT Tanah Laut Tbk,Industrials,Marine Shipping,70,8,41163915264
+280,Jakarta,INDY.JK,PT. Indika Energy Tbk,Energy,Thermal Coal,1465,5645,7374414807040
+281,Serang,INKP.JK,PT Indah Kiat Pulp & Paper Tbk,Basic Materials,Paper & Paper Products,12100,12000,67703377231872
+282,Tangerang,INOV.JK,PT Inocycle Technology Group Tbk,Industrials,Waste Management,216,152,386959081472
+283,South Jakarta,INPC.JK,PT Bank Artha Graha Internasional Tbk,Financial Services,Banks—Regional,320,1831,5054784339968
+284,Jakarta,INPP.JK,PT Indonesian Paradise Property Tbk,Consumer Cyclical,Lodging,730,500,9169240326144
+285,Jakarta,INPS.JK,PT. Indah Prakasa Sentosa Tbk,Industrials,Trucking,4420,200,2677999927296
+286,Medan,INRU.JK,PT Toba Pulp Lestari Tbk,Basic Materials,Paper & Paper Products,1000,1156,1388879937536
+287,Jakarta,INTA.JK,PT Intraco Penta Tbk,Industrials,Industrial Distribution,168,736,531684884480
+288,Jakarta Utara,INTD.JK,PT Inter Delta Tbk,Basic Materials,Paper & Paper Products,112,100,62733762560
+289,Jakarta,INTP.JK,PT Indocement Tunggal Prakarsa Tbk,Basic Materials,Building Materials,13275,5091,48776299413504
+290,Jakarta Utara,IPCC.JK,PT Indonesia Kendaraan Terminal Tbk,Industrials,Integrated Freight & Logistics,580,71,1036476612608
+291,Jakarta,IPCM.JK,PT Jasa Armada Indonesia Tbk,Industrials,Marine Shipping,312,223,1627721564160
+292,Jakarta,IPOL.JK,PT Indopoly Swakarsa Industry Tbk,Consumer Cyclical,Packaging & Containers,158,1208,1037384220672
+293,East Jakarta,IRRA.JK,PT Itama Ranoraya Tbk,Healthcare,Medical Distribution,2260,69,3360000049152
+294,Jakarta,ISAT.JK,PT Indosat Tbk,Communication Services,Telecom Services,5625,3104,30837554806784
+295,Malang,ITIC.JK,PT Indonesian Tobacco Tbk,Consumer Defensive,Tobacco,580,216,545617608704
+296,Jakarta,ITMA.JK,PT Sumber Energi Andalan Tbk,Industrials,Specialty Business Services,695,1,600783716352
+297,Jakarta,ITMG.JK,PT Indo Tambangraya Megah Tbk,Energy,Thermal Coal,11675,2438,12774924091392
+298,Central Jakarta,JAST.JK,PT. Jasnita Telekomindo Tbk,Communication Services,Telecom Services,181,259,165979914240
+299,Jakarta,JAWA.JK,PT Jaya Agra Wattie Tbk,Consumer Defensive,Farm Products,88,1996,332172722176
+300,Jakarta,JAYA.JK,PT Armada Berjaya Trans Tbk,Industrials,Trucking,132,44,53249998848
+301,Tangerang,JECC.JK,PT Jembo Cable Company Tbk,Industrials,Electrical Equipment & Parts,5800,979,876960022528
+302,Bogor,JGLE.JK,PT Graha Andrasentra Propertindo Tbk.,Consumer Cyclical,Leisure,50,145,1129094971392
+303,Jakarta,JIHD.JK,PT Jakarta International Hotels & Development Tbk,Consumer Cyclical,Lodging,442,1842,1029435621376
+304,Jakarta,JKON.JK,PT Jaya Konstruksi Manggala Pratama Tbk,Industrials,Conglomerates,252,1439,4142359117824
+305,Jakarta,JKSW.JK,"PT Jakarta Kyoei Steel Works, Tbk",Basic Materials,Steel,0,36,8999999488
+306,South Jakarta,JMAS.JK,PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk,Financial Services,Insurance—Life,167,28,167999995904
+307,Jakarta,JPFA.JK,PT Japfa Comfeed Indonesia Tbk,Consumer Defensive,Farm Products,1645,30739,15811671490560
+308,Tangerang,JRPT.JK,"PT Jaya Real Property, Tbk.",Real Estate,Real Estate Services,585,480,7977586655232
+309,Jakarta,JSMR.JK,PT Jasa Marga (Persero) Tbk,Industrials,Engineering & Construction,4050,7775,31208840888320
+310,Jakarta,JSPT.JK,PT Jakarta Setiabudi Internasional Tbk,Real Estate,Real Estate Services,860,1274,1994116431872
+311,Sidoarjo,JTPE.JK,PT Jasuindo Tiga Perkasa Tbk,Industrials,Specialty Business Services,1405,1697,2483864469504
+312,Jakarta,KAEF.JK,PT Kimia Farma (Persero) Tbk,Healthcare,Drug Manufacturers—Specialty & Generic,3260,12367,18050499739648
+313,Jakarta Utara,KARW.JK,PT ICTSI Jasa Prima Tbk,Industrials,Marine Shipping,68,78,40513560576
+314,Surabaya,KAYU.JK,PT Darmi Bersaudara Tbk,Basic Materials,Lumber & Wood Production,83,13,53199998976
+315,Jakarta,KBLI.JK,PT KMI Wire and Cable Tbk,Industrials,Electrical Equipment & Parts,388,680,1522751111168
+316,Jakarta,KBLM.JK,PT Kabelindo Murni Tbk,Technology,Communication Equipment,218,298,246399991808
+317,Jakarta,KBLV.JK,PT First Media Tbk,Communication Services,Entertainment,368,661,641118568448
+318,South Jakarta,KBRI.JK,PT Kertas Basuki Rachmat Indonesia Tbk,Basic Materials,Paper & Paper Products,0,25,434400002048
+319,Surabaya,KDSI.JK,PT Kedawung Setia Industrial Tbk,Consumer Cyclical,Packaging & Containers,805,1514,326024986624
+320,Jakarta Barat,KEEN.JK,PT Kencana Energi Lestari Tbk,Utilities,Utilities—Independent Power Producers,306,69,1136556113920
+321,Bekasi,KEJU.JK,PT Mulia Boga Raya Tbk,Consumer Defensive,Packaged Foods,1360,378,2025000009728
+322,Central Jakarta,KIAS.JK,PT Keramika Indonesia Assosiasi Tbk,Industrials,Building Products & Equipment,50,285,746454974464
+323,Surabaya,KICI.JK,PT Kedaung Indah Can Tbk,Consumer Cyclical,"Furnishings, Fixtures & Appliances",232,626,61271998464
+324,Bekasi,KIJA.JK,PT Kawasan Industri Jababeka Tbk,Industrials,Conglomerates,166,779,3590286475264
+325,Tangerang,KINO.JK,PT Kino Indonesia Tbk,Industrials,Conglomerates,2170,7378,3142853853184
+326,Jakarta Selatan,KIOS.JK,PT Kioson Komersial Indonesia Tbk,Technology,Software—Application,580,88,426757816320
+327,Jakarta Pusat,KJEN.JK,PT Krida Jaringan Nusantara Tbk,Industrials,Integrated Freight & Logistics,885,14,415000002560
+328,Jakarta Pusat,KKGI.JK,PT Resource Alam Indonesia Tbk,Energy,Thermal Coal,286,393,1332939849728
+329,Jakarta,KLBF.JK,PT Kalbe Farma Tbk.,Healthcare,Drug Manufacturers—General,1555,12161,72887356620800
+330,Jakarta Selatan,KMTR.JK,PT Kirana Megatara Tbk,Consumer Cyclical,Auto Parts,416,5514,3450455457792
+331,Jakarta Pusat,KOIN.JK,PT Kokoh Inti Arebama Tbk,Industrials,Building Products & Equipment,153,379,146145755136
+332,Central Jakarta,KONI.JK,PT Perdana Bangun Pusaka Tbk,Consumer Cyclical,Specialty Retail,284,196,43167997952
+333,Jakarta Selatan,KOPI.JK,PT Mitra Energi Persada Tbk,Energy,Oil & Gas Refining & Marketing,560,28,390469517312
+334,South Jakarta,KOTA.JK,PT DMS Propertindo Tbk,Real Estate,Real Estate Services,780,117,8225880014848
+335,Jakarta Pusat,KPAL.JK,PT Steadfast Marine Tbk,Industrials,Aerospace & Defense,50,330,53450498048
+336,Subang,KPAS.JK,PT Cottonindo Ariesta Tbk,Consumer Cyclical,Textile Manufacturing,70,247,56835182592
+337,Jakarta,KPIG.JK,PT MNC Land Tbk,Real Estate,Real Estate Services,135,536,10481340252160
+338,Cilegon,KRAS.JK,PT Krakatau Steel (Persero) Tbk,Basic Materials,Steel,650,5488,12575159877632
+339,Jakarta,KREN.JK,PT Kresna Graha Investama Tbk,Financial Services,Capital Markets,89,309,1511081377792
+340,South Tangerang,LAND.JK,PT Trimitra Propertindo Tbk,Real Estate,Real Estate Services,187,104,485915885568
+341,Jakarta,LAPD.JK,PT Leyand International Tbk,Utilities,Utilities—Independent Power Producers,50,132,198317506560
+342,Jakarta,LCGP.JK,PT Eureka Prima Jakarta Tbk,Real Estate,Real Estate—Development,0,21,641820000256
+343,Jakarta,LCKM.JK,PT LCK Global Kedaton Tbk,Communication Services,Telecom Services,300,11,280000004096
+344,Jakarta Pusat,LEAD.JK,PT Logindo Samudramakmur Tbk.,Industrials,Marine Shipping,50,787,201687498752
+345,Jakarta Selatan,LINK.JK,PT Link Net Tbk,Communication Services,Telecom Services,3310,851,8915118981120
+346,Jakarta,LION.JK,PT Lion Metal Works Tbk,Industrials,Business Equipment & Supplies,364,987,200781758464
+347,Jakarta,LMAS.JK,PT Limas Indonesia Makmur Tbk,Technology,Electronics & Computer Distribution,50,22,39392600064
+348,Sidoarjo,LMPI.JK,PT Langgeng Makmur Industri Tbk,Consumer Cyclical,"Furnishings, Fixtures & Appliances",126,958,128082042880
+349,Jakarta,LMSH.JK,PT Lionmesh Prima Tbk,Industrials,Metal Fabrication,386,75,37056000000
+350,Bekasi,LPCK.JK,PT Lippo Cikarang Tbk,Real Estate,Real Estate—Development,1145,475,3135132139520
+351,Jakarta Selatan,LPGI.JK,PT Lippo General Insurance Tbk,Financial Services,Insurance—Diversified,3240,328,486000001024
+352,Tangerang,LPIN.JK,PT Multi Prima Sejahtera Tbk,Consumer Cyclical,Auto Parts,256,121,108800000000
+353,Tangerang,LPKR.JK,PT Lippo Karawaci Tbk,Real Estate,Real Estate—Development,202,11839,14255726264320
+354,Tangerang,LPLI.JK,PT Star Pacific Tbk,Communication Services,Publishing,159,10,173223641088
+355,Tangerang,LPPF.JK,PT Matahari Department Store Tbk,Consumer Cyclical,Department Stores,1285,9819,3479648600064
+356,Tangerang,LPPS.JK,PT Lenox Pasifik Investama Tbk,Financial Services,Capital Markets,90,3,232942501888
+357,Jakarta,LRNA.JK,PT Eka Sari Lorena Transport Tbk,Industrials,Railroads,169,201,57749999616
+358,Jakarta Selatan,LSIP.JK,PT Perusahaan Perkebunan London Sumatra Indonesia Tbk,Consumer Defensive,Farm Products,1320,13889,9241045762048
+359,Jakarta Barat,LTLS.JK,PT Lautan Luas Tbk,Basic Materials,Specialty Chemicals,500,3277,773407506432
+360,Jakarta Selatan,LUCK.JK,PT Sentral Mitra Informatika Tbk,Technology,Computer Hardware,124,81,90900250624
+361,Jakarta Selatan,MABA.JK,PT Marga Abhinaya Abadi Tbk,Consumer Cyclical,Lodging,0,280,768259981312
+362,Jakarta,MAGP.JK,PT Multi Agro Gemilang Plantation Tbk,Consumer Defensive,Farm Products,50,179,449999962112
+363,Jakarta Selatan,MAIN.JK,PT Malindo Feedmill Tbk,Consumer Defensive,Farm Products,700,3598,1600706183168
+364,Central Jakarta,MAPA.JK,PT Map Aktif Adiperkasa Tbk,Consumer Cyclical,Specialty Retail,2480,7405,7097495846912
+365,Jakarta,MAPB.JK,PT. Map Boga Adiperkasa Tbk,Consumer Cyclical,Restaurants,1400,5907,3039287836672
+366,Jakarta Pusat,MAPI.JK,PT. Mitra Adiperkasa Tbk,Consumer Cyclical,Department Stores,850,21276,14224056123392
+367,Bekasi,MASA.JK,PT Multistrada Arah Sarana Tbk,Consumer Cyclical,Auto Parts,1360,3354,12488812789760
+368,Jakarta,MAYA.JK,PT Bank Mayapada Internasional Tbk,Financial Services,Banks—Regional,7400,3336,53976040996864
+369,Jakarta Pusat,MBAP.JK,PT Mitrabara Adiperdana Tbk,Energy,Thermal Coal,2810,448,3448628838400
+370,Jakarta Selatan,MBSS.JK,PT Mitrabahtera Segara Sejati Tbk,Industrials,Marine Shipping,430,232,742012682240
+371,Jakarta,MBTO.JK,PT Martina Berto Tbk,Consumer Defensive,Household & Personal Products,101,531,106999996416
+372,Jakarta Selatan,MCAS.JK,PT M Cash Integrasi Tbk,Industrials,Business Equipment & Supplies,3980,126,3402297245696
+373,Jakarta Pusat,MCOR.JK,PT Bank China Construction Bank Indonesia Tbk,Financial Services,Banks—Regional,171,1273,2893881016320
+374,Jakarta,MDIA.JK,PT Intermedia Capital Tbk,Communication Services,Broadcasting,59,1081,3098024607744
+375,Jakarta,MDKA.JK,PT Merdeka Copper Gold Tbk,Basic Materials,Other Industrial Metals & Mining,2600,2560,55838882398208
+376,Gresik,MDKI.JK,PT Emdeki Utama Tbk,Basic Materials,Specialty Chemicals,230,295,571813855232
+377,Jakarta Barat,MDLN.JK,PT Modernland Realty Tbk,Real Estate,Real Estate—Development,51,1106,609312309248
+378,Jakarta Selatan,MDRN.JK,PT Modern Internasional Tbk,Industrials,Business Equipment & Supplies,50,40,381608493056
+379,Jakarta,MEDC.JK,PT Medco Energi Internasional Tbk,Energy,Oil & Gas E&P,655,2913,16747855872000
+380,Jakarta,MEGA.JK,PT Bank Mega Tbk,Financial Services,Banks—Regional,10300,5052,71030454353920
+381,Jakarta Timur,MERK.JK,PT Merck Tbk,Healthcare,Drug Manufacturers—Specialty & Generic,3250,418,1429119959040
+382,Jakarta,META.JK,PT Nusantara Infrastructure Tbk,Industrials,Infrastructure Operations,153,251,2257230233600
+383,Jakarta Pusat,MFIN.JK,Pt Mandala Multifinance Tbk,Financial Services,Credit Services,1065,4253,2835499974656
+384,Jakarta Selatan,MGNA.JK,PT Magna Investama Mandiri Tbk,Financial Services,Credit Services,0,3,50154000384
+385,Medan,MGRO.JK,PT Mahkota Group Tbk,Consumer Defensive,Packaged Foods,755,869,2679220469760
+386,Jakarta Barat,MICE.JK,PT Multi Indocitra Tbk,Consumer Defensive,Household & Personal Products,294,416,172835962880
+387,Tangerang,MIDI.JK,PT Midi Utama Indonesia Tbk,Consumer Defensive,Discount Stores,2000,9602,6052935368704
+388,Bekasi,MIKA.JK,PT Mitra Keluarga Karyasehat Tbk,Healthcare,Medical Care Facilities,2720,6991,41441313161216
+389,Jakarta Selatan,MINA.JK,PT Sanurhasta Mitra Tbk,Consumer Cyclical,Lodging,55,5,374062514176
+390,Jakarta,MIRA.JK,PT Mitra International Resources Tbk,Energy,Oil & Gas Equipment & Services,50,149,198072500224
+391,Jakarta,MITI.JK,PT Mitra Investindo Tbk,Energy,Oil & Gas E&P,0,16,72210644992
+392,Jakarta Selatan,MKNT.JK,PT Mitra Komunikasi Nusantara Tbk,Technology,Communication Equipment,50,269,249999998976
+393,South Jakarta,MKPI.JK,PT Metropolitan Kentjana Tbk,Real Estate,Real Estate Services,27375,976,25909400698880
+394,Jakarta,MLBI.JK,PT Multi Bintang Indonesia Tbk,Consumer Defensive,Beverages—Brewers,9100,460,19015676198912
+395,Jakarta Selatan,MLIA.JK,PT Mulia Industrindo Tbk,Industrials,Building Products & Equipment,715,3223,885110210560
+396,Jakarta,MLPL.JK,PT Multipolar Tbk,Consumer Cyclical,Department Stores,107,9788,1654274785280
+397,Jakarta,MLPT.JK,PT Multipolar Technology Tbk,Technology,Information Technology Services,1155,544,2175000117248
+398,East Jakarta,MMLP.JK,PT Mega Manunggal Property Tbk,Real Estate,Real Estate Services,320,120,2190743306240
+399,Jakarta Pusat,MNCN.JK,PT. Media Nusantara Citra Tbk,Communication Services,Entertainment,1090,6724,14074565885952
+400,Malang,MOLI.JK,PT Madusari Murni Indah Tbk,Basic Materials,Chemicals,1125,755,2626751299584
+401,Jakarta,MPMX.JK,PT Mitra Pinasthika Mustika Tbk,Consumer Cyclical,Auto & Truck Dealerships,540,1911,2305871314944
+402,Jakarta Utara,MPOW.JK,PT Megapower Makmur Tbk,Utilities,Utilities—Independent Power Producers,51,84,41666846720
+403,Jakarta,MPRO.JK,PT Maha Properti Indonesia Tbk,Real Estate,Real Estate—Development,900,22,8351700221952
+404,Jakarta,MRAT.JK,PT Mustika Ratu Tbk,Consumer Defensive,Household & Personal Products,230,1269,91591999488
+405,South Jakarta,MREI.JK,PT Maskapai Reasuransi Indonesia Tbk,Financial Services,Insurance—Reinsurance,5000,130,2588960096256
+406,Jakarta Barat,MSIN.JK,PT. MNC Studios International Tbk.,Communication Services,Entertainment,175,546,1792643301376
+407,Jakarta,MSKY.JK,PT MNC Sky Vision Tbk,Communication Services,Entertainment,690,1251,6930435670016
+408,Jakarta,MTDL.JK,P.T. Metrodata Electronics Tbk,Technology,Electronics & Computer Distribution,1635,3168,4039100071936
+409,Jakarta Selatan,MTFN.JK,PT Capitalinc Investment Tbk,Financial Services,Asset Management,50,10,1592104976384
+410,Bekasi,MTLA.JK,PT Metropolitan Land Tbk,Real Estate,Real Estate Services,434,538,3215154741248
+411,Jakarta,MTPS.JK,PT Meta Epsi Tbk.,Industrials,Engineering & Construction,100,14,210569854976
+412,North Jakarta,MTRA.JK,PT Mitra Pemuda Tbk,Industrials,Engineering & Construction,0,32,187879997440
+413,Jakarta,MTWI.JK,PT Malacca Trust Wuwungan Insurance Tbk,Financial Services,Insurance—Diversified,85,86,137323806720
+414,South Jakarta,MYOH.JK,PT Samindo Resources Tbk,Energy,Thermal Coal,1305,693,2879234506752
+415,Jakarta Barat,MYOR.JK,PT Mayora Indah Tbk,Consumer Defensive,Packaged Foods,2730,12532,61262838890496
+416,South Jakarta,MYRX.JK,PT Hanson International Tbk,Real Estate,Real Estate—Development,0,114,4335160000512
+417,Jakarta Barat,MYTX.JK,PT Asia Pacific Investama Tbk,Consumer Cyclical,Textile Manufacturing,56,5169,472584060928
+418,Bali,NASA.JK,PT Ayana Land International Tbk,Real Estate,Real Estate Services,104,4,1144509693952
+419,Bali,NATO.JK,PT Surya Permata Andalan Tbk,Consumer Cyclical,Lodging,530,58,4160566853632
+420,Jakarta Pusat,NELY.JK,PT Pelayaran Nelly Dwi Putri Tbk,Industrials,Marine Shipping,139,77,331350016000
+421,Jakarta Selatan,NFCX.JK,PT NFC Indonesia Tbk,Communication Services,Internet Content & Information,2220,134,1457306468352
+422,Jakarta,NICK.JK,PT Charnic Capital Tbk,Real Estate,Real Estate Services,294,8,191438110720
+423,Jakarta,NIKL.JK,PT Pelat Timah Nusantara Tbk,Industrials,Metal Fabrication,1240,252,3078487015424
+424,Jakarta Selatan,NIRO.JK,PT City Retail Developments Tbk,Real Estate,Real Estate Services,140,163,3063448338432
+425,Jakarta,NISP.JK,PT Bank OCBC NISP Tbk,Financial Services,Banks—Regional,895,5986,20650771087360
+426,Jakarta,NOBU.JK,PT Bank Nationalnobu Tbk,Financial Services,Banks—Regional,1130,1263,4681995124736
+427,Jakarta,NRCA.JK,PT Nusa Raya Cipta Tbk,Industrials,Engineering & Construction,358,442,870148800512
+428,Yogyakarta,NUSA.JK,PT Sinergi Megah Internusa Tbk,Consumer Cyclical,Lodging,50,10,384999981056
+429,Karawang,NZIA.JK,"PT Nusantara Almazia, Tbk.",Real Estate,Real Estate—Development,240,28,505434210304
+430,Jakarta,OCAP.JK,PT Onix Capital Tbk,Financial Services,Capital Markets,159,21,43438800896
+431,Jakarta,OKAS.JK,PT Ancora Indonesia Resources Tbk,Basic Materials,Chemicals,97,605,180124860416
+432,Jakarta,OMRE.JK,PT Indonesia Prima Property Tbk,Real Estate,Real Estate Services,334,496,582829998080
+433,Surabaya,OPMS.JK,PT Optima Prima Metal Sinergi Tbk,Industrials,Waste Management,372,10,349999988736
+434,Jakarta,PADI.JK,PT Minna Padi Investama Sekuritas Tbk,Financial Services,Asset Management,50,52,565360001024
+435,Jakarta,PALM.JK,PT Provident Agro Tbk,Consumer Defensive,Farm Products,326,675,2306723807232
+436,Pekanbaru,PAMG.JK,PT Bima Sakti Pertiwi Tbk,Real Estate,Real Estate—Diversified,89,87,303125004288
+437,Tangerang,PANI.JK,PT Pratama Abadi Nusa Industri Tbk,Consumer Defensive,Packaged Foods,106,104,43050000384
+438,Jakarta,PANR.JK,PT Panorama Sentrawisata Tbk,Consumer Cyclical,Travel Services,136,1475,170400006144
+439,South Jakarta,PANS.JK,PT  Panin Sekuritas Tbk,Financial Services,Capital Markets,1235,311,878934622208
+440,Tangerang,PBID.JK,PT Panca Budi Idaman Tbk,Consumer Cyclical,Packaging & Containers,1535,3593,2878125113344
+441,Tangerang,PBRX.JK,PT Pan Brothers Tbk,Consumer Cyclical,Apparel Manufacturing,194,36233,1250311929856
+442,Jakarta Selatan,PBSA.JK,PT Paramita Bangun Sarana Tbk,Industrials,Engineering & Construction,565,134,817499996160
+443,Jakarta,PDES.JK,PT Destinasi Tirta Nusantara Tbk,Consumer Cyclical,Travel Services,346,554,230229999616
+444,Jakarta,PEGE.JK,PT Panca Global Kapital Tbk,Financial Services,Capital Markets,124,8,337176985600
+445,Jakarta,PEHA.JK,"PT Phapros, Tbk",Healthcare,Drug Manufacturers—Specialty & Generic,1290,1675,1083600011264
+446,Jakarta,PGAS.JK,PT Perusahaan Gas Negara Tbk,Utilities,Utilities—Regulated Gas,1400,2648,34180515758080
+447,Jakarta,PGJO.JK,PT Tourindo Guide Indonesia Tbk,Consumer Cyclical,Travel Services,58,15,22820292608
+448,North Jakarta,PJAA.JK,PT Pembangunan Jaya Ancol Tbk,Consumer Cyclical,Leisure,570,735,920000004096
+449,Samarinda,PKPK.JK,PT Perdana Karya Perkasa Tbk,Industrials,Engineering & Construction,52,17,28047190016
+450,Jakarta,PLAS.JK,PT Polaris Investama Tbk,Financial Services,Capital Markets,0,15,59209998336
+451,Jakarta Pusat,PLIN.JK,PT Plaza Indonesia Realty Tbk,Real Estate,Real Estate Services,2450,365,8662587277312
+452,Jakarta,PMJS.JK,PT Putra Mandiri Jembar Tbk,Consumer Cyclical,Auto & Truck Dealerships,134,1876,1815739236352
+453,Jakarta,PNBN.JK,P.T. Bank Pan Indonesia Tbk,Financial Services,Banks—Regional,1120,11809,26369243217920
+454,Jakarta,PNBS.JK,PT Bank Panin Dubai Syariah Tbk,Financial Services,Banks—Regional,100,457,2228187037696
+455,Jakarta,PNIN.JK,PT Paninvest Tbk,Financial Services,Insurance—Life,830,305,3336022523904
+456,Jakarta,PNLF.JK,PT Panin Financial Tbk,Financial Services,Insurance—Life,234,305,7301038604288
+457,Jakarta,PNSE.JK,PT Pudjiadi and Sons Tbk,Consumer Cyclical,Resorts & Casinos,414,724,330295017472
+458,Jakarta Selatan,POLA.JK,PT Pool Advista Finance Tbk,Financial Services,Credit Services,140,22,458892476416
+459,Jakarta Selatan,POLL.JK,PT Pollux Properti Indonesia Tbk,Real Estate,Real Estate—Development,5150,297,42841921290240
+460,Semarang,POLU.JK,"PT Golden Flower, Tbk",Consumer Cyclical,Apparel Manufacturing,600,957,434999984128
+461,Jakarta,POLY.JK,PT Asia Pacific Fibers Tbk,Basic Materials,Specialty Chemicals,58,3337,147249250304
+462,Jakarta Selatan,POOL.JK,PT. Pool Advista Indonesia Tbk,Consumer Defensive,Education & Training Services,50,73,117068505088
+463,Jakarta,PORT.JK,PT Nusantara Pelabuhan Handal Tbk,Industrials,Marine Shipping,478,758,1345063354368
+464,Jakarta Selatan,POSA.JK,PT Bliss Properti Indonesia Tbk,Real Estate,Real Estate Services,50,25,419443507200
+465,Jakarta,POWR.JK,PT Cikarang Listrindo Tbk,Utilities,Utilities—Regulated Electric,700,763,11023879766016
+466,Jakarta Timur,PPRE.JK,PT PP Presisi Tbk,Industrials,Engineering & Construction,210,264,2126654472192
+467,East Jakarta,PPRO.JK,PT Pembangunan Perumahan Properti Tbk,Real Estate,Real Estate—Development,78,574,4749029015552
+468,Sidoarjo,PRAS.JK,PT. Prima Alloy Steel Universal Tbk.,Consumer Cyclical,Auto Parts,169,515,110764793856
+469,Jakarta Pusat,PRDA.JK,PT Prodia Widyahusada Tbk,Healthcare,Diagnostics & Research,3400,2935,3103125143552
+470,Jakarta,PRIM.JK,PT Royal Prima Tbk,Healthcare,Medical Care Facilities,200,872,678686031872
+471,South Jakarta,PSAB.JK,PT J Resources Asia Pasifik Tbk,Basic Materials,Gold,230,1830,6085799837696
+472,Jakarta,PSDN.JK,PT Prasidha Aneka Niaga Tbk,Consumer Defensive,Packaged Foods,133,485,195840000000
+473,Jakarta Selatan,PSGO.JK,PT Palma Serasih Tbk,Consumer Defensive,Farm Products,133,1300,2356250148864
+474,Jakarta,PSKT.JK,PT Red Planet Indonesia Tbk,Consumer Cyclical,Lodging,50,137,517560008704
+475,Jakarta,PSSI.JK,PT Pelita Samudera Shipping Tbk,Industrials,Marine Shipping,184,102,1050909605888
+476,Jakarta Utara,PTIS.JK,PT Indo Straits Tbk,Industrials,Marine Shipping,171,155,90227056640
+477,Jakarta,PTPP.JK,PT PP (Persero) Tbk,Industrials,Engineering & Construction,1535,1945,9547846516736
+478,Tangerang,PTPW.JK,PT Pratama Widya Tbk,Industrials,Engineering & Construction,1680,6,1418273619968
+479,South Tangerang,PTRO.JK,PT Petrosea Tbk,Basic Materials,Other Industrial Metals & Mining,1805,4026,1804828540928
+480,Batam,PTSN.JK,PT Sat Nusapersada Tbk,Technology,Electronic Components,200,482,1062867959808
+481,Jakarta Barat,PTSP.JK,PT Pioneerindo Gourmet International Tbk,Consumer Cyclical,Restaurants,4170,1143,938433970176
+482,Bogor,PURE.JK,PT Trinitan Metals and Minerals Tbk,Industrials,Specialty Industrial Machinery,161,46,202666164224
+483,Surabaya,PWON.JK,PT Pakuwon Jati Tbk,Real Estate,Real Estate Services,565,2427,26969376817152
+484,Jakarta,PYFA.JK,PT Pyridam Farma Tbk,Healthcare,Drug Manufacturers—Specialty & Generic,920,621,486922813440
+485,Jakarta,PZZA.JK,PT Sarimelati Kencana Tbk.,Consumer Cyclical,Restaurants,840,6359,2419419512832
+486,Jakarta Pusat,RAJA.JK,PT Rukun Raharja Tbk,Utilities,Utilities—Regulated Gas,195,186,879232614400
+487,Jakarta,RALS.JK,PT Ramayana Lestari Sentosa Tbk,Consumer Cyclical,Department Stores,760,8205,5461408481280
+488,West Jakarta,RANC.JK,PT Supra Boga Lestari Tbk,Consumer Defensive,Grocery Stores,476,879,741568282624
+489,Jakarta,RBMS.JK,PT Ristia Bintang Mahkotasejati Tbk,Real Estate,Real Estate—Development,53,200,151383441408
+490,South Jakarta,REAL.JK,PT Repower Asia Indonesia Tbk,Real Estate,Real Estate—Development,50,9,331631984640
+491,Jakarta Utara,RELI.JK,PT Reliance Sekuritas Indonesia Tbk,Financial Services,Capital Markets,296,88,532800012288
+492,Bogor,RICY.JK,PT Ricky Putra Globalindo Tbk,Consumer Cyclical,Apparel Manufacturing,86,2031,56471183360
+493,Jakarta,RIGS.JK,PT Rig Tenders Indonesia Tbk,Industrials,Marine Shipping,236,75,142536409088
+494,South Jakarta,RIMO.JK,PT Rimo International Lestari Tbk,Real Estate,Real Estate—Development,0,173,2202480148480
+495,Sidoarjo,RISE.JK,PT Jaya Sukses Makmur Sentosa Tbk,Real Estate,Real Estate—Development,420,337,4139200020480
+496,Jakarta Selatan,RMBA.JK,PT Bentoel Internasional Investama Tbk,Consumer Defensive,Tobacco,316,3384,11429945016320
+497,Jakarta Pusat,RODA.JK,PT Pikko Land Development Tbk,Real Estate,Real Estate—Development,53,182,720381280256
+498,Bekasi,ROTI.JK,PT Nippon Indosari Corpindo Tbk,Consumer Defensive,Packaged Foods,1400,3349,8136029634560
+499,Jakarta,RUIS.JK,PT Radiant Utama Interinsco Tbk,Energy,Oil & Gas Equipment & Services,252,438,192500006912
+500,Jakarta Selatan,SAFE.JK,PT Steady Safe Tbk,Industrials,Railroads,177,55,107650375680
+501,Jakarta,SAME.JK,PT Sarana Meditama Metropolitan Tbk,Healthcare,Medical Care Facilities,324,904,2769691869184
+502,East Jakarta,SAPX.JK,PT Satria Antaran Prima Tbk,Industrials,Integrated Freight & Logistics,955,257,770832990208
+503,Jakarta,SCMA.JK,PT Surya Citra Media Tbk,Communication Services,Broadcasting,1805,3758,24820066549760
+504,Jakarta,SDMU.JK,PT Sidomulyo Selaras Tbk,Industrials,Trucking,50,176,56760999936
+505,Jakarta,SDPC.JK,PT Millennium Pharmacon International Tbk,Healthcare,Medical Distribution,131,1117,165620006912
+506,Jakarta,SDRA.JK,PT Bank Woori Saudara Indonesia 1906 Tbk,Financial Services,Banks—Regional,905,1120,5560885837824
+507,Jakarta,SFAN.JK,PT Surya Fajar Capital Tbk,Financial Services,Asset Management,1290,77,1754309722112
+508,Palembang,SGRO.JK,PT Sampoerna Agro Tbk,Consumer Defensive,Farm Products,1750,8442,3182585184256
+509,Jakarta,SHID.JK,PT Hotel Sahid Jaya International Tbk,Consumer Cyclical,Lodging,2780,615,2966224633856
+510,Central Jakarta,SHIP.JK,PT Sillo Maritime Perdana Tbk,Energy,Oil & Gas Equipment & Services,645,82,1767863615488
+511,Tangerang,SILO.JK,PT Siloam International Hospitals Tbk,Healthcare,Medical Care Facilities,5500,10790,8732386263040
+512,Central Jakarta,SIMA.JK,PT Siwani Makmur Tbk,Consumer Cyclical,Packaging & Containers,0,12,22129500160
+513,Jakarta,SIMP.JK,PT Salim Ivomas Pratama Tbk,Consumer Defensive,Farm Products,458,35096,7409621270528
+514,Jakarta Selatan,SIPD.JK,PT Sreeya Sewu Indonesia Tbk,Consumer Defensive,Farm Products,1220,1704,1633701986304
+515,Jakarta Selatan,SKBM.JK,PT Sekar Bumi Tbk,Consumer Defensive,Packaged Foods,332,1012,541964009472
+516,Jakarta Utara,SKRN.JK,PT Superkrane Mitra Utama Tbk,Industrials,Rental & Leasing Services,680,851,1050000031744
+517,Jakarta,SKYB.JK,PT Northcliff Citranusa Indonesia Tbk,Communication Services,Telecom Services,0,25,29834999808
+518,Tangerang,SLIS.JK,PT Gaya Abadi Sempurna Tbk,Technology,Electronics & Computer Distribution,5150,166,10600000258048
+519,Jakarta,SMAR.JK,PT Sinar Mas Agro Resources and Technology Tbk,Consumer Defensive,Farm Products,3830,22001,11057931223040
+520,Jakarta,SMCB.JK,PT Solusi Bangun Indonesia Tbk,Basic Materials,Building Materials,1715,2352,13180188229632
+521,Jakarta,SMDM.JK,PT Suryamas Dutamakmur Tbk,Real Estate,Real Estate—Development,100,376,515391127552
+522,Jakarta Barat,SMDR.JK,PT Samudera Indonesia Tbk,Industrials,Marine Shipping,310,4000,1054588665856
+523,Jakarta Selatan,SMGR.JK,PT Semen Indonesia (Persero) Tbk,Basic Materials,Building Materials,11200,11357,64801854193664
+524,Tangerang,SMKL.JK,PT Satyamitra Kemas Lestari Tbk,Consumer Cyclical,Packaging & Containers,199,1339,673200013312
+525,Jakarta,SMMA.JK,PT Sinar Mas Multiartha Tbk,Financial Services,Financial Conglomerates,12500,7354,80710094290944
+526,Jakarta,SMMT.JK,PT Golden Eagle Energy Tbk,Energy,Thermal Coal,98,84,308700020736
+527,Jakarta Timur,SMRA.JK,PT Summarecon Agung Tbk,Real Estate,Real Estate—Development,870,2482,12623449948160
+528,Jakarta,SMRU.JK,PT SMR Utama Tbk,Energy,Thermal Coal,0,976,624969973760
+529,Jakarta,SMSM.JK,PT Selamat Sempurna Tbk,Consumer Cyclical,Auto Parts,1350,3432,7515077607424
+530,Jakarta Pusat,SOCI.JK,PT Soechi Lines Tbk,Industrials,Marine Shipping,204,306,1454153924608
+531,Jakarta Selatan,SONA.JK,PT Sona Topas Tourism Industry Tbk,Consumer Cyclical,Travel Services,5450,970,1805039960064
+532,Jakarta Selatan,SOTS.JK,PT Satria Mega Kencana Tbk,Consumer Cyclical,Lodging,328,8,333999996928
+533,Surabaya,SPMA.JK,PT Suparma Tbk,Basic Materials,Paper & Paper Products,306,710,655516696576
+534,Jakarta Barat,SPTO.JK,PT Surya Pertiwi Tbk,Consumer Cyclical,"Furnishings, Fixtures & Appliances",498,439,1350000050176
+535,Jakarta Pusat,SQMI.JK,PT Wilton Makmur indonesia Tbk,Basic Materials,Gold,336,19,5158483263488
+536,Tangerang,SRAJ.JK,PT Sejahteraraya Anugrahjaya Tbk,Healthcare,Medical Care Facilities,159,2193,1932112822272
+537,Surakarta,SRIL.JK,PT Sri Rejeki Isman Tbk,Consumer Cyclical,Textile Manufacturing,230,18302,4622197456896
+538,Jakarta,SRTG.JK,PT Saratoga Investama Sedaya Tbk,Financial Services,Asset Management,5275,58,13671542554624
+539,Jakarta,SSIA.JK,PT Surya Semesta Internusa Tbk,Industrials,Engineering & Construction,486,2653,2192396255232
+540,Pangkalan Bun,SSMS.JK,PT Sawit Sumbermas Sarana Tbk.,Consumer Defensive,Farm Products,990,7203,9763125460992
+541,Bandung,SSTM.JK,PT Sunson Textile Manufacturer Tbk,Consumer Cyclical,Textile Manufacturing,520,1049,661564096512
+542,Central Jakarta,STAR.JK,PT Buana Artha Anugerah Tbk,Consumer Cyclical,Textile Manufacturing,90,16,446400004096
+543,Sidoarjo,STTP.JK,PT Siantar Top Tbk,Consumer Defensive,Packaged Foods,7775,2279,10185249652736
+544,South Jakarta,SUGI.JK,PT Sugih Energy Tbk,Energy,Oil & Gas E&P,0,2,
+545,Jakarta Selatan,SULI.JK,PT SLJ Global Tbk,Basic Materials,Lumber & Wood Production,50,272,199345995776
+546,Jakarta,SUPR.JK,PT Solusi Tunas Pratama Tbk,Technology,Communication Equipment,4250,462,4834714976256
+547,Boyolali,SWAT.JK,PT Sriwahana Adityakarta Tbk,Consumer Cyclical,Packaging & Containers,97,430,298900815872
+548,Tangerang,TALF.JK,PT Tunas Alfin Tbk,Consumer Cyclical,Packaging & Containers,310,1314,395204493312
+549,Jakarta,TAMA.JK,PT Lancartama Sejati Tbk,Real Estate,Real Estate—Development,65,8,67000000512
+550,Jakarta,TAMU.JK,PT Pelayaran Tamarin Samudra Tbk,Industrials,Marine Shipping,50,40,1874999902208
+551,West Jakarta,TARA.JK,PT Sitara Propertindo Tbk,Real Estate,Real Estate—Diversified,50,9,503480025088
+552,West Jakarta,TAXI.JK,PT Express Transindo Utama Tbk,Industrials,Railroads,50,74,307279986688
+553,Jakarta Selatan,TBIG.JK,PT Tower Bersama Infrastructure Tbk,Communication Services,Telecom Services,2070,655,44560067592192
+554,Jakarta,TBLA.JK,PT Tunas Baru Lampung Tbk,Consumer Defensive,Farm Products,920,3466,4986623229952
+555,Jakarta Barat,TBMS.JK,PT Tembaga Mulia Semanan Tbk,Industrials,Metal Fabrication,1045,288,383870304256
+556,Jakarta,TCID.JK,PT. Mandom Indonesia Tbk,Consumer Defensive,Household & Personal Products,6400,4110,1286828851200
+557,Jakarta,TDPM.JK,PT Tridomain Performance Materials Tbk,Basic Materials,Specialty Chemicals,121,402,1321122529280
+558,Jakarta,TEBE.JK,PT Dana Brata Luhur,Industrials,Infrastructure Operations,414,214,537129975808
+559,West Jakarta,TELE.JK,PT Tiphone Mobile Indonesia Tbk,Consumer Cyclical,Specialty Retail,121,1241,883565002752
+560,Jakarta,TFAS.JK,PT Telefast Indonesia Tbk,Industrials,Staffing & Employment Services,600,14,966668582912
+561,Tangerang,TFCO.JK,PT Tifico Fiber Indonesia Tbk,Consumer Cyclical,Textile Manufacturing,520,924,2508001640448
+562,South Jakarta,TGKA.JK,PT Tigaraksa Satria Tbk,Consumer Defensive,Food Distribution,7650,2158,6911659868160
+563,Jakarta Barat,TGRA.JK,PT. Terregra Asia Energy Tbk,Utilities,Utilities—Renewable,174,19,503250026496
+564,Jakarta Selatan,TIFA.JK,PT KDB Tifa Finance Tbk,Financial Services,Credit Services,650,73,701804969984
+565,Bangka,TINS.JK,PT TIMAH Tbk,Basic Materials,Other Industrial Metals & Mining,1890,4444,13331472580608
+566,East Jakarta,TIRA.JK,PT Tira Austenite Tbk,Industrials,Industrial Distribution,260,369,155231993856
+567,Jakarta Selatan,TIRT.JK,PT Tirta Mahakam Resources Tbk,Basic Materials,Lumber & Wood Production,50,111,50588499968
+568,Jakarta,TKIM.JK,PT Pabrik Kertas Tjiwi Kimia Tbk,Basic Materials,Paper & Paper Products,13050,6500,41327995650048
+569,Bandung,TLKM.JK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,3320,25416,330867771703296
+570,North Jakarta,TMAS.JK,PT Temas Tbk.,Industrials,Marine Shipping,133,512,741669470208
+571,Jakarta,TMPO.JK,PT Tempo Inti Media Tbk,Communication Services,Publishing,152,19,164041146368
+572,Jakarta,TNCA.JK,PT Trimuda Nuansa Citra Tbk,Industrials,Integrated Freight & Logistics,308,53,161909768192
+573,Jakarta,TOBA.JK,PT TBS Energi Utama Tbk,Energy,Thermal Coal,498,526,3992780013568
+574,Jakarta Selatan,TOPS.JK,PT Totalindo Eka Persada Tbk,Industrials,Engineering & Construction,50,62,1666500001792
+575,West Jakarta,TOTL.JK,PT Total Bangun Persada Tbk,Industrials,Engineering & Construction,352,677,1200319889408
+576,Jakarta Barat,TOTO.JK,PT Surya Toto Indonesia Tbk,Industrials,Building Products & Equipment,214,4189,2187840061440
+577,Kudus,TOWR.JK,PT Sarana Menara Nusantara Tbk.,Communication Services,Telecom Services,1175,997,59368972222464
+578,Jakarta,TPIA.JK,PT. Chandra Asri Petrochemical Tbk,Basic Materials,Specialty Chemicals,9425,2159,170309932023808
+579,Jakarta Pusat,TRAM.JK,PT Trada Alam Minera Tbk,Industrials,Marine Shipping,0,1176,2482180194304
+580,Jakarta Selatan,TRIL.JK,PT Triwira Insanlestari Tbk,Industrials,Industrial Distribution,0,40,
+581,Jakarta,TRIM.JK,PT Trimegah Sekuritas Indonesia Tbk,Financial Services,Capital Markets,94,272,696711446528
+582,Tangerang Selatan,TRIN.JK,PT Perintis Triniti Properti Tbk,Real Estate,Real Estate—Development,182,189,782826078208
+583,Jakarta Pusat,TRIO.JK,PT Trikomsel Oke Tbk,Technology,Consumer Electronics,0,83,
+584,West Jakarta,TRIS.JK,PT Trisula International Tbk,Consumer Cyclical,Apparel Manufacturing,106,3529,332922683392
+585,Sidoarjo,TRST.JK,PT Trias Sentosa Tbk,Consumer Cyclical,Packaging & Containers,420,1145,1179360034816
+586,Jakarta,TRUK.JK,PT Guna Timur Raya Tbk,Industrials,Trucking,175,40,72645001216
+587,Jakarta,TRUS.JK,PT. Trust Finance Indonesia Tbk,Financial Services,Credit Services,350,69,281600000000
+588,Jakarta,TSPC.JK,PT Tempo Scan Pacific Tbk,Healthcare,Drug Manufacturers—Specialty & Generic,1455,5270,6547499384832
+589,Jakarta,TURI.JK,PT Tunas Ridean Tbk,Consumer Cyclical,Auto & Truck Dealerships,1600,3186,8928000737280
+590,Jakarta Selatan,UCID.JK,PT Uni-Charm Indonesia Tbk,Consumer Defensive,Household & Personal Products,1500,1827,6256398434304
+591,Bandung,ULTJ.JK,PT Ultrajaya Milk Industry & Trading Company Tbk,Consumer Defensive,Packaged Foods,1525,1446,17619088310272
+592,South Jakarta,UNIC.JK,PT Unggul Indah Cahaya Tbk,Basic Materials,Chemicals,4830,627,1935821635584
+593,Jakarta,UNIT.JK,PT Nusantara Inti Corpora Tbk,Financial Services,Capital Markets,316,389,23833415680
+594,Kisaran,UNSP.JK,PT Bakrie Sumatera Plantations Tbk,Consumer Defensive,Farm Products,115,7667,295018889216
+595,Jakarta Timur,UNTR.JK,PT United Tractors Tbk,Industrials,Farm & Heavy Construction Machinery,21800,29324,87005509713920
+596,Tangerang,UNVR.JK,PT Unilever Indonesia Tbk,Consumer Defensive,Household & Personal Products,6725,5222,253697510604800
+597,South Jakarta,URBN.JK,PT Urban Jakarta Propertindo Tbk,Real Estate,Real Estate—Development,472,57,1551417606144
+598,Jakarta Selatan,VICO.JK,PT Victoria Investama Tbk,Financial Services,Asset Management,157,979,1345063223296
+599,Jakarta Selatan,VINS.JK,PT Victoria Insurance Tbk,Financial Services,Insurance—Property & Casualty,168,46,229309480960
+600,Jakarta,VIVA.JK,PT Visi Media Asia Tbk,Communication Services,Broadcasting,50,2626,856143626240
+601,Jakarta,VOKS.JK,PT Voksel Electric Tbk,Industrials,Electrical Equipment & Parts,204,1330,822808805376
+602,Jakarta Pusat,VRNA.JK,PT. Verena Multi Finance Tbk,Financial Services,Credit Services,100,598,767792185344
+603,Surabaya,WAPO.JK,PT Wahana Pronatural Tbk,Consumer Defensive,Packaged Foods,72,4,109200965632
+604,Jakarta,WEGE.JK,PT Wijaya Karya Bangunan Gedung Tbk.,Industrials,Engineering & Construction,224,594,2182415908864
+605,Tangerang,WEHA.JK,PT WEHA Transportasi Indonesia Tbk,Industrials,Railroads,56,279,55843893248
+606,Jakarta Utara,WICO.JK,Pt Wicaksana Overseas International Tbk,Consumer Defensive,Food Distribution,450,580,571027488768
+607,Surabaya,WIIM.JK,PT Wismilak Inti Makmur Tbk,Consumer Defensive,Tobacco,825,3474,1732392648704
+608,Jakarta Timur,WIKA.JK,PT Wijaya Karya (Persero) Tbk.,Industrials,Engineering & Construction,1725,5637,15381578121216
+609,Jakarta Barat,WINS.JK,PT Wintermar Offshore Marine Tbk,Industrials,Marine Shipping,100,152,437030027264
+610,Jakarta Utara,WOMF.JK,PT Wahana Ottomitra Multiartha Tbk,Financial Services,Credit Services,248,2204,863407046656
+611,Sidoarjo,WOOD.JK,PT Integra Indocabinet Tbk,Consumer Cyclical,"Furnishings, Fixtures & Appliances",615,2048,3783750057984
+612,Palembang,WOWS.JK,PT Ginting Jaya Energi Tbk,Energy,Oil & Gas Equipment & Services,70,32,163397517312
+613,Jakarta Timur,WSBP.JK,PT Waskita Beton Precast Tbk,Basic Materials,Building Materials,250,329,6079943016448
+614,Jakarta,WSKT.JK,PT Waskita Karya (Persero) Tbk,Industrials,Engineering & Construction,1405,2333,19139198451712
+615,Jakarta,WTON.JK,PT Wijaya Karya Beton Tbk,Basic Materials,Building Materials,352,1454,3076601675776
+616,Jakarta Pusat,YELO.JK,PT Yelooo Integra Datanet Tbk,Consumer Cyclical,Travel Services,109,12,42944970752
+617,Jakarta,YPAS.JK,PT Yanaprima Hastapersada Tbk,Consumer Cyclical,Packaging & Containers,620,20,387439984640
+618,South Jakarta,YULE.JK,PT Yulie Sekuritas Indonesia Tbk,Financial Services,Capital Markets,398,13,710429966336
+619,Surabaya,ZBRA.JK,PT Zebra Nusantara Tbk,Consumer Cyclical,Specialty Retail,60,30,13823923200
+620,Jakarta Utara,ZINC.JK,PT Kapuas Prima Coal Tbk,Basic Materials,Other Industrial Metals & Mining,131,167,3307750031360
+621,Jakarta Selatan,ZONE.JK,PT Mega Perintis Tbk,Consumer Cyclical,Apparel Retail,430,3283,374173532160
